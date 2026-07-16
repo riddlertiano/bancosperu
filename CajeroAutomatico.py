@@ -3,11 +3,11 @@
 # Autor: contreras colfer
 # ===========================================
 
-saldo = 5000
-pin_correcto = "5678"
+saldo = 20000
+pin_correcto = "9012"
 
 print("===================================")
-print("     BIENVENIDO AL CAJERO DEL BCP")
+print("     CAJERO BANCO INTERBANK")
 print("===================================")
 
 pin = input("Ingrese su PIN: ")
