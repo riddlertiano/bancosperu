@@ -1,6 +1,6 @@
 # ===========================================
 # PROGRAMA: CAJERO AUTOMÁTICO
-# Autor: contreras colfer
+# Autor: contreras colfer 4tosec
 # ===========================================
 
 saldo = 20000
